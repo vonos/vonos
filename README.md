@@ -36,12 +36,6 @@
 - **Codex / 各类大模型** —— 写代码、查资料、做视频
 - 也试过不少：生图、生视频、Agent 编排……碰到好玩的就想上手
 
-顺手学的一点硬技能：`Python` · `React` · `TypeScript`（都是边做边学）。
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,vite,git,github,obsidian" />
-</p>
-
 ---
 
 ## 🚀 近期作品
@@ -76,7 +70,6 @@
 
 - 🎬 **AI 视频**：用 ComfyUI / WorkBuddy 做全 AI 生成视频（零外部素材、零剪辑软件）
 - 📚 **科普写作**：把硬核科研拆成普通人爱看的故事（叶片温度、城市绿化……）
-- 🖨️ **个人项目**：微信读书高亮导出 → 自动排版打印成册
 - 📝 **公众号**持续分享论文解读与学习心得
 
 ---
@@ -88,10 +81,4 @@
   <a href="https://vonos.github.io"><img src="https://img.shields.io/badge/个人主页-vonos.github.io-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
-> 公众号搜索「**刘灿**」或相关内容就能找到我，聊聊论文、AI 和折腾的那些事 👋
-
----
-
-<p align="center">
-  <i>⚡ 本主页使用 WorkBuddy + Auto 模型设计与构建</i>
-</p>
+> 公众号 ID：**流年vov** —— 分享论文解读与学习心得，1000+ 关注，欢迎来聊论文、AI 和折腾的那些事 👋
