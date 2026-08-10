@@ -30,7 +30,7 @@
   <circle cx="1010" cy="230" r="3.5" fill="#F8FAFC"/>
 
   <text x="80" y="208" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="88" font-weight="800" letter-spacing="1" fill="url(#accent)">vonos</text>
-  <text x="86" y="256" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="27" font-weight="500" fill="#E2E8F0">刘灿 · 地学背景 · vibe coder</text>
+  <text x="86" y="256" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="27" font-weight="500" fill="#E2E8F0">地学背景 · vibe coder</text>
   <text x="86" y="306" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="21" font-weight="400" fill="#94A3B8">0 基础学 AI，用工具把想法变成产品 ✨</text>
 
   <!-- tool chips -->

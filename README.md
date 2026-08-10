@@ -3,7 +3,7 @@
   <img src="assets/header.svg" alt="vonos banner" width="100%"/>
 </p>
 
-<h1 align="center">你好，我是 vonos（刘灿）</h1>
+<h1 align="center">你好，我是 vonos</h1>
 <p align="center">
   <b>地学背景</b> · 对 AI 有兴趣 · 0 基础 vibe coding
 </p>
