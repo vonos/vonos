@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-label="vonos banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="0.55" stop-color="#1E1B4B"/>
+      <stop offset="1" stop-color="#0E7490"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#E2E8F0" fill-opacity="0.10"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <rect width="1200" height="420" fill="url(#dots)"/>
+  <circle cx="1010" cy="80" r="240" fill="url(#glow)"/>
+
+  <!-- decorative orbit -->
+  <circle cx="1010" cy="80" r="150" fill="none" stroke="#38BDF8" stroke-opacity="0.25" stroke-width="1.5"/>
+  <circle cx="1010" cy="80" r="150" fill="#A78BFA" fill-opacity="0.9"/>
+  <circle cx="1010" cy="-70" r="5" fill="#A78BFA"/>
+  <circle cx="1160" cy="80" r="4" fill="#38BDF8"/>
+  <circle cx="1010" cy="230" r="3.5" fill="#F8FAFC"/>
+
+  <text x="80" y="208" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="88" font-weight="800" letter-spacing="1" fill="url(#accent)">vonos</text>
+  <text x="86" y="256" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="27" font-weight="500" fill="#E2E8F0">刘灿 · 地理 × AI 跨界者</text>
+  <text x="86" y="306" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="21" font-weight="400" fill="#94A3B8">把 AI 工具变成普通人的超能力 ✨</text>
+
+  <!-- tech chips -->
+  <g font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="600">
+    <rect x="86" y="338" rx="14" width="96" height="34" fill="#0EA5E9" fill-opacity="0.18" stroke="#38BDF8" stroke-opacity="0.5"/>
+    <text x="110" y="360" fill="#7DD3FC">Python</text>
+    <rect x="196" y="338" rx="14" width="104" height="34" fill="#8B5CF6" fill-opacity="0.18" stroke="#A78BFA" stroke-opacity="0.5"/>
+    <text x="218" y="360" fill="#C4B5FD">React</text>
+    <rect x="314" y="338" rx="14" width="120" height="34" fill="#06B6D4" fill-opacity="0.18" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <text x="334" y="360" fill="#67E8F9">CloudBase</text>
+    <rect x="448" y="338" rx="14" width="150" height="34" fill="#F59E0B" fill-opacity="0.16" stroke="#FBBF24" stroke-opacity="0.5"/>
+    <text x="468" y="360" fill="#FCD34D">AI 工具链</text>
+  </g>
+</svg>
