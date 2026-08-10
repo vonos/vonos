@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:liucan@agent.qq.com"><img src="https://img.shields.io/badge/Email-liucan%40agent.qq.com-38BDF8?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:liucan202310@163.com"><img src="https://img.shields.io/badge/Email-liucan202310%40163.com-38BDF8?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-武汉%20·%20武汉大学-8B5CF6?style=flat&logo=geo&logoColor=white"/>
   <img src="https://img.shields.io/badge/地学%20×%20AI-0%20基础%20vibe%20coder-06B6D4?style=flat"/>
 </p>
@@ -77,7 +77,7 @@
 ## 📡 找到我
 
 <p align="left">
-  <a href="mailto:liucan@agent.qq.com"><img src="https://img.shields.io/badge/邮箱-liucan@agent.qq.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:liucan202310@163.com"><img src="https://img.shields.io/badge/邮箱-liucan202310@163.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://vonos.github.io"><img src="https://img.shields.io/badge/个人主页-vonos.github.io-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
