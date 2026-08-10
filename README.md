@@ -20,7 +20,6 @@
 
 - 🌍 **地学背景**，但对 **人工智能** 有浓厚兴趣——从泛文科专业一路自学过来
 - 🧩 **0 基础转行 vibe coding**：用 AI 工具把脑子里的想法变成能跑起来的产品，不靠死磕语法
-- ✍️ 运营一个 **公众号**，分享**论文解读**和自己的**学习心得**
 - 🚀 相信「普通人也能玩转 AI」，正在这条路上慢慢摸索
 
 > 我不一定写得最规范，但很喜欢折腾，也乐于把踩过的坑和学到的东西讲给同路人听。
@@ -70,7 +69,6 @@
 
 - 🎬 **AI 视频**：用 ComfyUI / WorkBuddy 做全 AI 生成视频（零外部素材、零剪辑软件）
 - 📚 **科普写作**：把硬核科研拆成普通人爱看的故事（叶片温度、城市绿化……）
-- 📝 **公众号**持续分享论文解读与学习心得
 
 ---
 
@@ -80,5 +78,3 @@
   <a href="mailto:liucan202310@163.com"><img src="https://img.shields.io/badge/邮箱-liucan202310@163.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://vonos.github.io"><img src="https://img.shields.io/badge/个人主页-vonos.github.io-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
-
-> 公众号 ID：**流年vov** —— 分享论文解读与学习心得，欢迎来聊论文、AI 和折腾的那些事 👋
